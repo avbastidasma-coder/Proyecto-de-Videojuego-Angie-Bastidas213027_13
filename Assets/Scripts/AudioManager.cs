@@ -1,0 +1,237 @@
+using UnityEngine;
+
+public class AudioManager : MonoBehaviour
+{
+    // Singleton instance
+    public static AudioManager instance;
+
+    [Header("Audio Sources")]
+    public AudioSource musicSource;
+    public AudioSource sfxSource;
+    public AudioSource runSource;
+
+    [Header("Background Music")]
+    public AudioClip backgroundMusic;
+
+    [Header("Player Sounds")]
+    public AudioClip jumpSound;
+    public AudioClip crouchSound;
+    public AudioClip runSound;
+    public AudioClip playerDamageSound;
+    public AudioClip loseLifeSound;
+    public AudioClip gainLifeSound;
+
+    [Header("Enemy Sounds")]
+    public AudioClip enemyDamageSound;
+    public AudioClip enemyProjectileSound;
+
+    [Header("Projectile Sounds")]
+    public AudioClip playerShootSound;
+    public AudioClip playerExplosionSound;
+
+    [Header("Coin Sounds")]
+    public AudioClip coinSound;
+
+    [Header("Button Sounds")]
+    public AudioClip buttonClickSound;
+
+    [Header("Game State Sounds")]
+    public AudioClip gameOverSound;
+    public AudioClip victorySound;
+
+    [Header("Volume Settings")]
+    [Range(0f, 1f)] public float musicVolume = 0.4f;
+    [Range(0f, 1f)] public float sfxVolume = 1f;
+    [Range(0f, 1f)] public float runVolume = 1f;
+
+    private void Awake()
+    {
+        // Ensure only one AudioManager exists
+        if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
+
+    private void Start()
+    {
+        PlayBackgroundMusic();
+    }
+
+    // =========================
+    // BACKGROUND MUSIC
+    // =========================
+
+    public void PlayBackgroundMusic()
+    {
+        if (musicSource == null || backgroundMusic == null)
+        {
+            return;
+        }
+
+        musicSource.clip = backgroundMusic;
+        musicSource.loop = true;
+        musicSource.volume = musicVolume;
+        musicSource.Play();
+    }
+
+    public void StopMusic()
+    {
+        if (musicSource != null)
+        {
+            musicSource.Stop();
+        }
+    }
+
+    public void PauseMusic()
+    {
+        if (musicSource != null)
+        {
+            musicSource.Pause();
+        }
+    }
+
+    public void ResumeMusic()
+    {
+        if (musicSource != null)
+        {
+            musicSource.UnPause();
+        }
+    }
+
+    // =========================
+    // GENERIC SOUND METHOD
+    // =========================
+
+    public void PlaySound(AudioClip clip, float volume = 1f)
+    {
+        if (sfxSource == null || clip == null)
+        {
+            return;
+        }
+
+        sfxSource.PlayOneShot(clip, volume);
+    }
+
+    // =========================
+    // PLAYER SOUNDS
+    // =========================
+
+    public void PlayJumpSound()
+    {
+        PlaySound(jumpSound, sfxVolume);
+    }
+
+    public void PlayCrouchSound()
+    {
+        PlaySound(crouchSound, sfxVolume);
+    }
+
+    public void PlayPlayerDamageSound()
+    {
+        PlaySound(playerDamageSound, sfxVolume);
+    }
+
+    public void PlayLoseLifeSound()
+    {
+        PlaySound(loseLifeSound, sfxVolume);
+    }
+
+    public void PlayGainLifeSound()
+    {
+        PlaySound(gainLifeSound, sfxVolume);
+    }
+
+    // =========================
+    // RUN SOUND
+    // =========================
+
+    public void StartRunSound()
+    {
+        if (runSource == null || runSound == null)
+        {
+            return;
+        }
+
+        if (!runSource.isPlaying)
+        {
+            runSource.clip = runSound;
+            runSource.loop = true;
+            runSource.volume = runVolume;
+            runSource.Play();
+        }
+    }
+
+    public void StopRunSound()
+    {
+        if (runSource != null && runSource.isPlaying)
+        {
+            runSource.Stop();
+        }
+    }
+
+    // =========================
+    // ENEMY SOUNDS
+    // =========================
+
+    public void PlayEnemyDamageSound()
+    {
+        PlaySound(enemyDamageSound, sfxVolume);
+    }
+
+    public void PlayEnemyProjectileSound()
+    {
+        PlaySound(enemyProjectileSound, sfxVolume);
+    }
+
+    // =========================
+    // PLAYER PROJECTILE SOUNDS
+    // =========================
+
+    public void PlayPlayerShootSound()
+    {
+        PlaySound(playerShootSound, sfxVolume);
+    }
+
+    public void PlayPlayerExplosionSound()
+    {
+        PlaySound(playerExplosionSound, sfxVolume);
+    }
+
+    // =========================
+    // COIN SOUNDS
+    // =========================
+
+    public void PlayCoinSound()
+    {
+        PlaySound(coinSound, sfxVolume);
+    }
+
+    // =========================
+    // BUTTON SOUNDS
+    // =========================
+
+    public void PlayButtonClickSound()
+    {
+        PlaySound(buttonClickSound, sfxVolume);
+    }
+
+    // =========================
+    // GAME STATE SOUNDS
+    // =========================
+
+    public void PlayGameOverSound()
+    {
+        PlaySound(gameOverSound, sfxVolume);
+    }
+
+    public void PlayVictorySound()
+    {
+        PlaySound(victorySound, sfxVolume);
+    }
+}

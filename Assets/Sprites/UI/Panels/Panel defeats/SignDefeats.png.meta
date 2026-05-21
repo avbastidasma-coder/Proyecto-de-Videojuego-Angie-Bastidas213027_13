@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 8372d841c73711c40ae1cf0cb1ff3076
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5978337472334576049
+    second: SignDefeats_0
+  - first:
+      213: 8299702962992194077
+    second: SignDefeats_1
+  - first:
+      213: -560322243535768780
+    second: SignDefeats_2
+  - first:
+      213: 8625483717053581220
+    second: SignDefeats_3
+  - first:
+      213: 6867403536124003357
+    second: SignDefeats_4
+  - first:
+      213: -7075929712448372308
+    second: SignDefeats_5
+  - first:
+      213: 1607490909414573023
+    second: SignDefeats_6
+  - first:
+      213: -1895598580292522688
+    second: SignDefeats_7
+  - first:
+      213: -3835792456988261303
+    second: SignDefeats_8
+  - first:
+      213: -3163456618591807812
+    second: SignDefeats_9
+  - first:
+      213: 2874905245237428773
+    second: SignDefeats_10
+  - first:
+      213: 3735996258531084399
+    second: SignDefeats_11
+  - first:
+      213: 2034326763848160904
+    second: SignDefeats_12
+  - first:
+      213: 1459662409047871871
+    second: SignDefeats_13
+  - first:
+      213: 6462639230427238232
+    second: SignDefeats_14
+  - first:
+      213: 4958947591567050760
+    second: SignDefeats_15
+  - first:
+      213: -6160323480576838867
+    second: SignDefeats_16
+  - first:
+      213: -7603958670806264593
+    second: SignDefeats_17
+  - first:
+      213: 3328224248557313158
+    second: SignDefeats_18
+  - first:
+      213: -5092849835457489929
+    second: SignDefeats_19
+  - first:
+      213: 6065245543513993453
+    second: SignDefeats_20
+  - first:
+      213: -4940862798263181969
+    second: SignDefeats_21
+  - first:
+      213: -3605324106314237198
+    second: SignDefeats_22
+  - first:
+      213: 3206415875996055648
+    second: SignDefeats_23
+  - first:
+      213: 9115937035185529921
+    second: SignDefeats_24
+  - first:
+      213: 7569559476538261424
+    second: SignDefeats_25
+  - first:
+      213: -3835138755560955588
+    second: SignDefeats_26
+  - first:
+      213: -2198804858916399034
+    second: SignDefeats_27
+  - first:
+      213: -145703348009489264
+    second: SignDefeats_28
+  - first:
+      213: 6384207100038157841
+    second: SignDefeats_29
+  - first:
+      213: -6421344543613542261
+    second: SignDefeats_30
+  - first:
+      213: -5335522832919852941
+    second: SignDefeats_31
+  - first:
+      213: 8225579259864157491
+    second: SignDefeats_32
+  - first:
+      213: -1987144826553699490
+    second: SignDefeats_33
+  - first:
+      213: 5078906507630171608
+    second: SignDefeats_34
+  - first:
+      213: 8286845755893857571
+    second: SignDefeats_35
+  - first:
+      213: 2557075422128938334
+    second: SignDefeats_36
+  - first:
+      213: 8031894919291817162
+    second: SignDefeats_37
+  - first:
+      213: -470274699506171871
+    second: SignDefeats_38
+  - first:
+      213: 767730341769822211
+    second: SignDefeats_39
+  - first:
+      213: -550060012517917871
+    second: SignDefeats_40
+  - first:
+      213: 8303094065345882783
+    second: SignDefeats_41
+  - first:
+      213: -926605760935367665
+    second: SignDefeats_42
+  - first:
+      213: -4913171907244917186
+    second: SignDefeats_43
+  - first:
+      213: -2270757989278101162
+    second: SignDefeats_44
+  - first:
+      213: 536709813997949830
+    second: SignDefeats_45
+  - first:
+      213: -8395645490257136387
+    second: SignDefeats_46
+  - first:
+      213: 2257274297285402245
+    second: SignDefeats_47
+  - first:
+      213: 7689069224726754239
+    second: SignDefeats_48
+  - first:
+      213: -1044633501911077428
+    second: SignDefeats_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SignDefeats_0
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1012
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9b8e9a14257f250800000000000000
+      internalID: 5978337472334576049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1024
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1228620fd77e2370800000000000000
+      internalID: 8299702962992194077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1041
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433fc4263e55938f0800000000000000
+      internalID: -560322243535768780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_3
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1040
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a705eaadbfd3b770800000000000000
+      internalID: 8625483717053581220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1033
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14ceeb812bed4f50800000000000000
+      internalID: 6867403536124003357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_5
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1041
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca102e99a6f3dcd90800000000000000
+      internalID: -7075929712448372308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 932
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3435b1774fe4610800000000000000
+      internalID: 1607490909414573023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 963
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dede0722b71b5e0800000000000000
+      internalID: -1895598580292522688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_8
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 986
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9448711551784cac0800000000000000
+      internalID: -3835792456988261303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_9
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 955
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61a7257f42914d0800000000000000
+      internalID: -3163456618591807812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_10
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 988
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522c841b617b5e720800000000000000
+      internalID: 2874905245237428773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 954
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f680fef8dcce8d330800000000000000
+      internalID: 3735996258531084399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 951
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8865d34d9616b3c10800000000000000
+      internalID: 2034326763848160904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_13
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 962
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711a473a33c14410800000000000000
+      internalID: 1459662409047871871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_14
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 975
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f8e19b328efa950800000000000000
+      internalID: 6462639230427238232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 846
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80802279f88b1d440800000000000000
+      internalID: 4958947591567050760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 145
+        width: 958
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2338b6ee62228aa0800000000000000
+      internalID: -6160323480576838867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_17
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 768
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe457db50ef497690800000000000000
+      internalID: -7603958670806264593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 694
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9914025a303e20800000000000000
+      internalID: 3328224248557313158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 629
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35627ce009259b0800000000000000
+      internalID: -5092849835457489929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_20
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 624
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03ca0dfa41c2450800000000000000
+      internalID: 6065245543513993453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 658
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d949976778e6bb0800000000000000
+      internalID: -4940862798263181969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 595
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fabcfeb3d057fdc0800000000000000
+      internalID: -3605324106314237198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_23
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 589
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068faea304a7f7c20800000000000000
+      internalID: 3206415875996055648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_24
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 621
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144af096f60528e70800000000000000
+      internalID: 9115937035185529921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_25
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 619
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf31491d3a7c0960800000000000000
+      internalID: 7569559476538261424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 590
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31a47a0f99d6cac0800000000000000
+      internalID: -3835138755560955588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 581
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64892ed61a64c71e0800000000000000
+      internalID: -2198804858916399034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 565
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2f43b39b5afdf0800000000000000
+      internalID: -145703348009489264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_29
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 573
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1161d425882499850800000000000000
+      internalID: 6384207100038157841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_30
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 455
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a589c82dc2e6a0800000000000000
+      internalID: -6421344543613542261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 472
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37883d4904a64f5b0800000000000000
+      internalID: -5335522832919852941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 301
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d060081c0272270800000000000000
+      internalID: 8225579259864157491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 131
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f2000f4e3c64e0800000000000000
+      internalID: -1987144826553699490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_34
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 113
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d557ba3f86eb7640800000000000000
+      internalID: 5078906507630171608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_35
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 104
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db1843f4ac00370800000000000000
+      internalID: 8286845755893857571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_36
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 128
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d90e76c8e8c7320800000000000000
+      internalID: 2557075422128938334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_37
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 79
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc47a1dfd5077f60800000000000000
+      internalID: 8031894919291817162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_38
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c41507af3979f0800000000000000
+      internalID: -470274699506171871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_39
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 98
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300ca70ada687aa00800000000000000
+      internalID: 767730341769822211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_40
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 100
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf8bc355bcd58f0800000000000000
+      internalID: -550060012517917871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_41
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 91
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a689d8f048a3370800000000000000
+      internalID: 8303094065345882783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_42
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 102
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ced9448f80423f0800000000000000
+      internalID: -926605760935367665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_43
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 94
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3efc347e28e0dbb0800000000000000
+      internalID: -4913171907244917186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_44
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 86
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d236c3a5ac70e0800000000000000
+      internalID: -2270757989278101162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 68
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68350d27bb6c27700800000000000000
+      internalID: 536709813997949830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 83
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fc1d98ecac7b80800000000000000
+      internalID: -8395645490257136387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_47
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 82
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ed05a8303735f10800000000000000
+      internalID: 2257274297285402245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_48
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 43
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f931b8bf05ba60800000000000000
+      internalID: 7689069224726754239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignDefeats_49
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 31
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2e1e5d57b081f0800000000000000
+      internalID: -1044633501911077428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SignDefeats_0: 5978337472334576049
+      SignDefeats_1: 8299702962992194077
+      SignDefeats_10: 2874905245237428773
+      SignDefeats_11: 3735996258531084399
+      SignDefeats_12: 2034326763848160904
+      SignDefeats_13: 1459662409047871871
+      SignDefeats_14: 6462639230427238232
+      SignDefeats_15: 4958947591567050760
+      SignDefeats_16: -6160323480576838867
+      SignDefeats_17: -7603958670806264593
+      SignDefeats_18: 3328224248557313158
+      SignDefeats_19: -5092849835457489929
+      SignDefeats_2: -560322243535768780
+      SignDefeats_20: 6065245543513993453
+      SignDefeats_21: -4940862798263181969
+      SignDefeats_22: -3605324106314237198
+      SignDefeats_23: 3206415875996055648
+      SignDefeats_24: 9115937035185529921
+      SignDefeats_25: 7569559476538261424
+      SignDefeats_26: -3835138755560955588
+      SignDefeats_27: -2198804858916399034
+      SignDefeats_28: -145703348009489264
+      SignDefeats_29: 6384207100038157841
+      SignDefeats_3: 8625483717053581220
+      SignDefeats_30: -6421344543613542261
+      SignDefeats_31: -5335522832919852941
+      SignDefeats_32: 8225579259864157491
+      SignDefeats_33: -1987144826553699490
+      SignDefeats_34: 5078906507630171608
+      SignDefeats_35: 8286845755893857571
+      SignDefeats_36: 2557075422128938334
+      SignDefeats_37: 8031894919291817162
+      SignDefeats_38: -470274699506171871
+      SignDefeats_39: 767730341769822211
+      SignDefeats_4: 6867403536124003357
+      SignDefeats_40: -550060012517917871
+      SignDefeats_41: 8303094065345882783
+      SignDefeats_42: -926605760935367665
+      SignDefeats_43: -4913171907244917186
+      SignDefeats_44: -2270757989278101162
+      SignDefeats_45: 536709813997949830
+      SignDefeats_46: -8395645490257136387
+      SignDefeats_47: 2257274297285402245
+      SignDefeats_48: 7689069224726754239
+      SignDefeats_49: -1044633501911077428
+      SignDefeats_5: -7075929712448372308
+      SignDefeats_6: 1607490909414573023
+      SignDefeats_7: -1895598580292522688
+      SignDefeats_8: -3835792456988261303
+      SignDefeats_9: -3163456618591807812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
